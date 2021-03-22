@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/DualSimInfo.iml" filepath="$PROJECT_DIR$/DualSimInfo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/dualsim/dualsim.iml" filepath="$PROJECT_DIR$/dualsim/dualsim.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DualSimInfo.iml" filepath="$PROJECT_DIR$/.idea/DualSimInfo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DualSimInfo.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DualSimInfo.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dualsim/DualSimInfo.dualsim.iml" filepath="$PROJECT_DIR$/.idea/modules/dualsim/DualSimInfo.dualsim.iml" />
     </modules>
   </component>
 </project>
